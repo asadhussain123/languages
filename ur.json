@@ -1,5 +1,6 @@
 {
     "title": "this is ur title",
     "description": "this is ur description",
-    "login": "login ur"
+    "login": "login ur",
+    "selectLanguage":"Select Language ur"
 }
