@@ -1,5 +1,6 @@
 {
     "title": "this is en title",
     "description": "this is en description",
-    "login": "login en"
+    "login": "login en",
+    "selectLanguage":"Select Language en"
 }
